@@ -1,10 +1,9 @@
+.welcome-sectio {
+    position: absolute;
+width: 436px;
+height: 793px;
+left: 0px;
+top: 74px;
 
-
-
-
-
-
-
-
-
-
+background: linear-gradient(135deg, #90F7EC 0%, #32CCBC 100%);
+}
